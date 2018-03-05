@@ -1,0 +1,1 @@
+web: ./marytts server -Dsocket.port=$port
